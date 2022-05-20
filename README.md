@@ -4,9 +4,33 @@
 
 ## Business Problem
 
+The goal of the project is to build a model to help University predict the students who are likely to attrite from the Univerisity. However the dataset could be used to build a model to predict student retention by switching the target variable in the dataset.
+
 ## Methods
 
+Exploratory Data Analysis
+
+Data Visualisation ; determine relationships between independent variables (linear and non-linear relationships)
+
+Aggregating Majors into custom 'Departments' to narrow down the independent variables, easiuer to deal with the categorical variable and notice their effect.
+
 ## Quick glance at the results
+
+Bagging Decisiontree Classififer:
+
+Score: 82.35%
+
+Random Forrest Classifier:
+
+Score: 80.79%
+
+AdaBoost Classifier:
+
+Score: 82.25%
+
+GradientBoost Classifier:
+
+Score: 84.79%
 
 ## Lessons and Reccommendations
 
