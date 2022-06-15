@@ -4,13 +4,13 @@
 
 ## Business Problem
 
-The goal of the project is to build a model to help University predict whether the students who are likely to attrite from the Univerisity. However the dataset could be used to build a model to predict student retention by switching the target variable in the dataset.
+The goal of the project is to build a model to help a university predict which of its students are likely to attrite from the Univerisity. However, the dataset could be used to build a model to predict student retention by switching the target variable in the dataset.
 
 ## Methods
 
 Exploratory Data Analysis
 
-Data Visualisation ; determine relationships between independent variables (linear and non-linear relationships)
+Data Visualisation: determine relationships between independent variables (linear and non-linear relationships)
 
 Aggregating Majors into custom 'Departments' to narrow down the independent variables, easiuer to deal with the categorical variable and notice their effect.
 
@@ -34,7 +34,7 @@ Score: 84.79%
 
 ## Lessons and Reccommendations
 
-Hypertuning is essential to improving accuracy and
+Hypertuning is essential to improving accuracy.
 
 Second term performance appears to bear the most weight on a students' decision to leave or stay at the univerisity.
 DIstance from home is the second most relevant factor in a student leaving the Univerity.
